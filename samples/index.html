@@ -16,17 +16,17 @@
       src="https://maps.googleapis.com/maps/api/js?sensor=true&libraries=places">
     </script>
 
-    <script src="../src/js/jquery.placepicker.js"></script>
+
 
     <script>
 
-      $(document).ready(function() {
+      jQuery(document).ready(function() {
 
         // Basic usage
-        $(".placepicker").placepicker();
+        jQuery(".placepicker").placepicker();
 
         // Advanced usage
-        $("#advanced-placepicker").each(function() {
+        jQuery("#advanced-placepicker").each(function() {
           var target = this;
           var $collapse = $(this).parents('.form-group').next('.collapse');
           var $map = $collapse.find('.another-map-class');

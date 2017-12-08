@@ -1,8 +1,12 @@
-jquery-placepicker
+Jak dojechac
 ==================
 
-A simple placepicker component for the google-maps api. 
+A simple plugin integratetd jak dojade polish serwis witch wodpress
 
+use jqueey place picke 
+
+A simple placepicker component for the google-maps api. 
+Demo to jquery place piker
 [Demo](http://benignware.github.io/jquery-placepicker)
 
 Usage

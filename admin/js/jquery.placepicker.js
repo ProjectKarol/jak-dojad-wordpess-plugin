@@ -1,4 +1,4 @@
-+(function ( $, window) {
+( function( $ ) {
 
   var pluginName = "placepicker";
 
@@ -403,4 +403,5 @@
 
 
 
-})( jQuery, window );
+} )( jQuery );
+
